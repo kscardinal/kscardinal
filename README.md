@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kscardinal
-- 👀 I’m interested in SharePoint, HTML, and CSS
-- 🌱 I’m currently learning SharePoint, HTML, and CSS
+- 👀 I’m interested in Web Development inclduing design, front-end and back-end development, and security.
+- 🌱 I’m currently learning SharePoint, HTML/CSS, Javascript, PHP, and nginx,
 - 💞️ I’m looking to collaborate on nothing ... I have a job.
 - 📫 How to reach me kschang@cardinalhs.net
 - 😄 Pronouns: he/him
