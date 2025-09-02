@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @kscardinal
+# 👋 Hi, I’m Kyle Schang [(@kscardinal)](github.com/kscardinal)
 
 - 🐦‍🔥 Intern Project Developer @ [Cardinal Compliance Consultants, LLC](https://cardinalhs.net/)
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
