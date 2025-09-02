@@ -54,5 +54,5 @@
 
 - LinkedIn: [linkedin.com/in/kyle-schang/](linkedin.com/in/kyle-schang/)
 - GitHub (work projects): [github.com/kscardinal](github.com/kscardinal)
-- GitHub (personal projects): [github.com/kmschang](github.com/kmschang)
+- GitHub (personal projects): [github.com/kmschang](www.github.com/kmschang)
 - Email: [kschang@cardinalhs.net](mailto:kschang@cardinalhs.net)
