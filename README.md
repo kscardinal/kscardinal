@@ -24,7 +24,7 @@
 
 ### 🔒 [`Secure Auth System`](https://github.com/kscardinal/secure-auth-system)
 
-- **Languages:** Python, HTML, CSS, SQL
+- **Languages:** Python, HTML, CSS, JavaScript, SQL, Flask
 - **Description:** A secure authentication platform for internal applications. Features account creation, password management, and encrypted user data.
 
 ### ✉️ [`SignatureBuilder`](https://github.com/kscardinal/SignatureBuilder)
