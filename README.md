@@ -52,6 +52,6 @@
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [linkedin.com/in/kyle-schang/]
-- GitHub (work projects): [github.com/kscardinal]
-- Email: [kschang@cardinalhs.net]
+- LinkedIn: [linkedin.com/in/kyle-schang/](linkedin.com/in/kyle-schang/)
+- GitHub (work projects): [github.com/kscardinal](github.com/kscardinal)
+- Email: [kschang@cardinalhs.net](mailto:kschang@cardinalhs.net)
