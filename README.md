@@ -11,7 +11,7 @@
 - **Languages:** Python, PHP, JavaScript, Java, Swift, SwiftUI, MATLAB, C, C++, SQL
 - **Frontend Development**: HTML, CSS, Bootstrap, Tailwind, sass
 - **Backend Development:** NodeJS, nginx
-- Frameworks: Git, Docker, Bootstrap, Jira, FastAPI, Flask, Bash
+- **Frameworks:** Git, Docker, Bootstrap, Jira, FastAPI, Flask, Bash
 
 ---
 
