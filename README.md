@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m @kscardinal
 
-- 🐦‍🔥 Intern Project Developer @ Cardinal Compliance Consultants, LLC
+- 🐦‍🔥 Intern Project Developer @ [Cardinal Compliance Consultants, LLC](https://cardinalhs.net/)
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
 
 ---
@@ -17,17 +17,17 @@
 
 ## 🐦‍🔥 GitHub Projects
 
-### 🎨 ColorWebsite
+### 🎨 [`ColorWebsite`](https://github.com/kscardinal/ColorWebsite)
 
 - **Languages:** HTML, CSS, JavaScript
 - **Description:** A simple, interactive web app for color selection and visualization. Designed for internal use. 
 
-### 🔒 Secure Auth System
+### 🔒 [`Secure Auth System`](https://github.com/kscardinal/secure-auth-system)
 
 - **Languages:** Python, HTML, CSS, SQL
 - **Description:** A secure authentication platform for internal applications. Features account creation, password management, and encrypted user data.
 
-### ✉️ SignatureBuilder
+### ✉️ [`SignatureBuilder`](https://github.com/kscardinal/SignatureBuilder)
 
 - **Languages:** HTML, CSS, JavaScript, PHP
 - **Description:** A dynamic email signature generator for Cardinal Compliance Consultants. Supports custom branding and easy export.
@@ -36,15 +36,15 @@
 
 ## 🏆 Other Projects
 
-### 🖥️ Internal Communication Network 
+### 🖥️ `Internal Communication Network`
 
 - Led the development and deployment of a secure, scalable communication platform, streamlining internal collaboration for consultants.
 
-### 🖥️ Project Management System
+### 🖥️ `Project Management System`
 
 - Directed the integration and onboarding of our project management and CRM solution, improving workflow efficiency and client management.
 
-### 📱 Data Collection Apps
+### 📱 `Data Collection Apps`
 
 - Responsible for the design and development of mobile based data collection applications, enabling accurate and efficient field data gathering.
 
