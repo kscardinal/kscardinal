@@ -17,15 +17,20 @@
 
 ## 🐦‍🔥 GitHub Projects
 
-### 🎨 [`ColorWebsite`](https://github.com/kscardinal/ColorWebsite)
-
-- **Languages:** HTML, CSS, JavaScript
-- **Description:** A simple, interactive web app for color selection and visualization. Designed for internal use. 
-
 ### 🔒 [`Secure Auth System`](https://github.com/kscardinal/secure-auth-system)
 
 - **Languages:** Python, HTML, CSS, JavaScript, SQL, Flask
 - **Description:** A secure authentication platform for internal applications. Features account creation, password management, and encrypted user data.
+
+### 📊 [`LOTO Report Generation`](https://github.com/kscardinal/loto-report-generation)
+
+- **Languages:** Python, FastAPI, HTML, ReportLab
+- **Description:** A python application for generating PDF reports related to lockout/tagout procedures with custom formatting, images, and fonts.
+
+### 🎨 [`ColorWebsite`](https://github.com/kscardinal/ColorWebsite)
+
+- **Languages:** HTML, CSS, JavaScript
+- **Description:** A simple, interactive web app for color selection and visualization. Designed for internal use. 
 
 ### ✉️ [`SignatureBuilder`](https://github.com/kscardinal/SignatureBuilder)
 
