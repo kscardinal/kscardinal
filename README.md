@@ -22,7 +22,7 @@
 - **Languages:** Python, HTML, CSS, JavaScript, SQL, Flask
 - **Description:** A secure authentication platform for internal applications. Features account creation, password management, and encrypted user data.
 
-### 📊 [`LOTO Report Generation`](https://github.com/kscardinal/loto-report-generation)
+### 📊 [`LOTO Report Generation`](https://github.com/kscardinal/loto-report-generator)
 
 - **Languages:** Python, FastAPI, HTML, ReportLab
 - **Description:** A python application for generating PDF reports related to lockout/tagout procedures with custom formatting, images, and fonts.
