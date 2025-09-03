@@ -18,21 +18,29 @@
 ## 🐦‍🔥 GitHub Projects
 
 ### 🔒 [`Secure Auth System`](https://github.com/kscardinal/secure-auth-system)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/secure-auth-system)
+![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/secure-auth-system)
 
 - **Languages:** Python, HTML, CSS, JavaScript, SQL, Flask
 - **Description:** A secure authentication platform for internal applications. Features account creation, password management, and encrypted user data.
 
 ### 📊 [`LOTO Report Generator`](https://github.com/kscardinal/loto-report-generator)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/loto-report-generator)
+![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/loto-report-generator)
 
 - **Languages:** Python, FastAPI, HTML, ReportLab
 - **Description:** A python application for generating PDF reports related to lockout/tagout procedures with custom formatting, images, and fonts.
 
 ### 🎨 [`ColorWebsite`](https://github.com/kscardinal/ColorWebsite)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/colorWebsite)
+![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/colorWebsite)
 
 - **Languages:** HTML, CSS, JavaScript
 - **Description:** A simple, interactive web app for color selection and visualization. Designed for internal use. 
 
 ### ✉️ [`SignatureBuilder`](https://github.com/kscardinal/SignatureBuilder)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/SignatureBuilder)
+![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/SignatureBuilder)
 
 - **Languages:** HTML, CSS, JavaScript, PHP
 - **Description:** A dynamic email signature generator for Cardinal Compliance Consultants. Supports custom branding and easy export.
