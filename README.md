@@ -51,15 +51,15 @@
 
 ### 🖥️ `Internal Communication Network`
 
-- Led the development and deployment of a secure, scalable communication platform, streamlining internal collaboration for consultants.
+- Leading the development and deployment of a secure, scalable communication platform, streamlining internal collaboration for consultants.
 
 ### 🖥️ `Project Management System`
 
-- Directed the integration and onboarding of our project management and CRM solution, improving workflow efficiency and client management.
+- Directing the integration and onboarding of our new project management and CRM solution, improving workflow efficiency and client management.
 
 ### 📱 `Data Collection Apps`
 
-- Responsible for the design and development of mobile based data collection applications, enabling accurate and efficient field data gathering.
+- Developing mobile based data collection applications, enabling accurate and efficient field data gathering, and subsiquent report generation. 
 
 ---
 
