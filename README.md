@@ -31,6 +31,13 @@
 - **Languages:** Python, FastAPI, HTML, ReportLab
 - **Description:** A python application for generating PDF reports related to lockout/tagout procedures with custom formatting, images, and fonts.
 
+### 🔒 [`Custom RSA Keys`](https://github.com/kscardinal/custom-rsa-keys)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/custom-rsa-keys)
+![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/custom-rsa-keys)
+
+- **Languages:** Python
+- **Description:** A python project providing custom RSA key generation used for encrypting and decrypting secure data.
+
 ### 🎨 [`ColorWebsite`](https://github.com/kscardinal/ColorWebsite)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/colorWebsite)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/colorWebsite)
