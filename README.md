@@ -66,7 +66,7 @@
 
 ### 📱 `Data Collection Apps`
 
-- Developing mobile based data collection applications, enabling accurate and efficient field data gathering, and subsiquent report generation. 
+- Developing mobile based data collection applications, enabling accurate and efficient field data gathering, and subsequent report generation. 
 
 ---
 
