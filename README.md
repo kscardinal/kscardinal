@@ -48,7 +48,7 @@
 - **Languages:** HTML, CSS, JavaScript
 - **Description:** A simple, interactive web app for color selection and visualization. Designed for internal use. 
 
-### ✉️ [`SignatureBuilder`](https://github.com/kscardinal/SignatureBuilder)
+### ✒️ [`SignatureBuilder`](https://github.com/kscardinal/SignatureBuilder)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/SignatureBuilder)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/SignatureBuilder)
 
