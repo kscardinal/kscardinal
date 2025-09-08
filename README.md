@@ -90,6 +90,7 @@
 - Email: [kschang@cardinalhs.net](mailto:kschang@cardinalhs.net)
 
 ## 🐍 Snake
+![GitHub Action](https://github.com/kscardinal/kscardinal/actions/workflows/main.yml/badge.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kscardinal/kscardinal/output/github-contribution-grid-snake-dark.svg" />
