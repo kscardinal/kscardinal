@@ -44,6 +44,7 @@
 ### 🔒 [`Custom RSA Keys`](https://github.com/kscardinal/custom-rsa-keys)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/custom-rsa-keys)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/custom-rsa-keys)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kscardinal/custom-rsa-keys/python-tests.yml?label=automated%20tests)
 
 - **Languages:** Python
 - **Description:** A Python project providing custom RSA key generation used for encrypting and decrypting secure data.
