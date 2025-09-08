@@ -2,6 +2,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/kscardinal)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/kscardinal)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kscardinal/kscardinal/main.yml?label=generate%20animation)
 
 - 🐦‍🔥 Lead Intern Project Developer @ [Cardinal Compliance Consultants, LLC](https://cardinalhs.net/)
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
@@ -90,7 +91,7 @@
 - Email: [kschang@cardinalhs.net](mailto:kschang@cardinalhs.net)
 
 ## 🐍 Snake
-![GitHub Action](https://github.com/kscardinal/kscardinal/actions/workflows/main.yml/badge.svg)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kscardinal/kscardinal/main.yml?label=generate%20animation)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kscardinal/kscardinal/output/github-contribution-grid-snake-dark.svg" />
