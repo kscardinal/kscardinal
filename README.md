@@ -88,3 +88,12 @@
 - GitHub (work projects): [github.com/kscardinal](github.com/kscardinal)
 - GitHub (personal projects): [github.com/kmschang](https://www.github.com/kmschang)
 - Email: [kschang@cardinalhs.net](mailto:kschang@cardinalhs.net)
+
+## 🐍 Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kscardinal/kscardinal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kscardinal/kscardinal/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kscardinal/kscardinal/output/github-contribution-grid-snake.svg" />
+</picture>
+
