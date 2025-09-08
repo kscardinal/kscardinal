@@ -23,6 +23,9 @@
 
 ## 🐦‍🔥 GitHub Projects
 
+> [!IMPORTANT]\
+> These projects were developed for internal use at **Cardinal Compliance Consultants, LLC** and are optimized for our workflows. You’re welcome to use, adapt, or learn from them, but they may require adjustments for other environments.
+
 ### 🔒 [`Secure Auth System`](https://github.com/kscardinal/secure-auth-system)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/secure-auth-system)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/secure-auth-system)
@@ -61,6 +64,9 @@
 ---
 
 ## 🏆 Other Projects
+
+> [!NOTE]\
+> The following repositories are private. Only descriptions and general information are provided here. These projects were built in-house for internal use and contain sensitive information, so they cannot be made public.
 
 ### 🖥️ `Internal Communication Network`
 
