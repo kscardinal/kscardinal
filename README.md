@@ -6,7 +6,7 @@
 
 - 🐦‍🔥 Lead Intern Project Developer @ [Cardinal Compliance Consultants, LLC](https://cardinalhs.net/)
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
-- 👨🏻‍💻 Personal projects [@kmschang](https://www.github.com/kmschang)
+- 👨🏻‍💻 Personal projects: [@kmschang](https://www.github.com/kmschang)
 - 📄 Resume
     - [`Resume.pdf`](Resume.pdf)
     - [`Resume.md`](resume.md)
