@@ -64,6 +64,9 @@
 - **Languages:** HTML, CSS, JavaScript, PHP
 - **Description:** A dynamic email signature generator for Cardinal Compliance Consultants. Supports custom branding and easy export.
 
+> [!TIP]\
+> I’m constantly working on new projects and have a number of smaller ones in progress or recently completed. The repositories above are a curated selection that I believe best showcase my skills and abilities.
+
 ---
 
 ## 🏆 Other Projects
