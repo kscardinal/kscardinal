@@ -15,10 +15,10 @@
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, PHP, JavaScript, Java, Swift, SwiftUI, MATLAB, C, C++, SQL
+- **Languages:** Python, PHP, TypeScript, JavaScript, Java, Swift, SwiftUI, MATLAB, C, C++, SQL
 - **Frontend Development**: HTML, CSS, Bootstrap, Tailwind, sass
 - **Backend Development:** NodeJS, nginx, MySQL, PostgreSQL, SQLite, MangoDB
-- **Frameworks:** Git, Docker, Bootstrap, Jira, FastAPI, Flask, Bash
+- **Frameworks:** Git, Docker, Bootstrap, Jira, FastAPI, Flask, Bash, Angular
 
 ---
 
