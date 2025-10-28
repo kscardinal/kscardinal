@@ -38,6 +38,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/loto-report-generator)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kscardinal/loto-report-generator)
 ![GitHub contributors](https://img.shields.io/github/contributors/kscardinal/loto-report-generator)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kscardinal/loto-report-generator/tests.yml?label=PDF%20Generation)
 
 - **Languages:** Python, FastAPI, HTML, ReportLab
 - **Description:** A Python application for generating PDF reports related to lockout/tagout procedures with custom formatting, images, and fonts.
