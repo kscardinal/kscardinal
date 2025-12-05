@@ -9,7 +9,7 @@
 - 👨🏻‍💻 Personal projects: [@kmschang](https://www.github.com/kmschang)
 - 📄 Resume
     - [`Download PDF`](Resume.pdf)
-    - [`Resume.md`](resume.md)
+    - [`Live Look (Markdown)`](resume.md)
 
 ---
 
